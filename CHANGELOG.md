@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.27](https://github.com/hakamaq/FamilyHub/compare/family-hub-v0.3.26...family-hub-v0.3.27) (2026-09-14)
+
+
+### Features
+
+* package as a Capacitor Android app for offline tablet use ([a438804](https://github.com/hakamaq/FamilyHub/commit/a43880469b1b626f7057cd3b09c7c758ee2bc340))
+
 ## [0.3.26](https://github.com/joe-bor/FamilyHub/compare/family-hub-v0.3.25...family-hub-v0.3.26) (2026-08-09)
 
 
