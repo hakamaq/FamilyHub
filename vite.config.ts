@@ -17,6 +17,7 @@ export default defineConfig(() => {
         },
       }),
       VitePWA({
+        disable: !!process.env.CAP_BUILD,
         registerType: "prompt",
         includeAssets: ["favicon.ico", "apple-touch-icon.png", "icons/*.png"],
         manifest: {
